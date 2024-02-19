@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chandra9499/My-app/static/css/main.f855e6bc.css",
+    "main.js": "/chandra9499/My-app/static/js/main.d0b90fe2.js",
+    "static/js/453.ed3810f9.chunk.js": "/chandra9499/My-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/chandra9499/My-app/index.html",
+    "main.f855e6bc.css.map": "/chandra9499/My-app/static/css/main.f855e6bc.css.map",
+    "main.d0b90fe2.js.map": "/chandra9499/My-app/static/js/main.d0b90fe2.js.map",
+    "453.ed3810f9.chunk.js.map": "/chandra9499/My-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d0b90fe2.js"
+  ]
+}
